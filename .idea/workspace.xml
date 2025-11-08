@@ -4,58 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f8913d3-5a31-48b7-9c81-2c55394922b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RahulShettyWebTableUsingStream/filterWebTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RahulShettyWebTableUsingStream/findparticularElementandFetchTheValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RahulShettyWebTableUsingStream/sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/Actionclaass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/AutoSuggestiveDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/BrokenLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/BrokenLinksII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/BrokenLinksIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/DropdownLooping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/DynamicDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/Ecommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/EcommercePractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/EcommersePractise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/FrameAndWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/HandlingCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/JavaScripExe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/LoginByAPI2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/LoginUsingAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/Pagination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/RahulShettyScroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/ScreenshotCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/StaticDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/Waits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/WindowHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/alert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/explicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/fileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/frame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/javaSsriptExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/navigate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/switchWindowPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/switchtoDifferentWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNNg/Listeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNNg/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNNg/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNNg/dprovider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngExtentReports/ExtentReportsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/thisAndSuperRevision/Ps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/thisAndSuperRevision/Ps1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/thisAndSuperRevision/Ps2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngGroups.xml" afterDir="false" />
+    <list default="true" id="7f8913d3-5a31-48b7-9c81-2c55394922b0" name="Changes" comment="code Revision">
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/AlertRevise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/BrokenLinkIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sahil7068"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sahil7068/Revision_java_selenim.git",
+    "accountId": "b7c8a399-495a-497f-ab95-584fbe9443ce"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -83,33 +47,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BrokenLinks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BrokenLinksII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoginByAPI2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoginUsingAPI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pagination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticDropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Application.switchWindowPractise.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.Ps.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mdsah/IdeaProjects/untitled3&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlertRevise.executor": "Run",
+    "Application.BrokenLinks.executor": "Run",
+    "Application.BrokenLinksII.executor": "Run",
+    "Application.LoginByAPI2.executor": "Run",
+    "Application.LoginUsingAPI.executor": "Run",
+    "Application.Pagination.executor": "Run",
+    "Application.StaticDropdown.executor": "Run",
+    "Application.switchWindowPractise.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.Ps.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mdsah/IdeaProjects/untitled3",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mdsah\IdeaProjects\untitled3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoginByAPI2">
-    <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.BrokenLinks" />
+  <component name="RunManager" selected="Application.AlertRevise">
+    <configuration name="AlertRevise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.AlertRevise" />
       <module name="untitled3" />
       <extension name="coverage">
         <pattern>
@@ -188,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlertRevise" />
         <item itemvalue="Application.LoginByAPI2" />
         <item itemvalue="Application.LoginUsingAPI" />
         <item itemvalue="Application.switchWindowPractise" />
         <item itemvalue="Application.BrokenLinksII" />
-        <item itemvalue="Application.BrokenLinks" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +170,15 @@
       <option name="presentableId" value="Default" />
       <updated>1757150316499</updated>
     </task>
+    <task id="LOCAL-00001" summary="code Revision">
+      <option name="closed" value="true" />
+      <created>1762619025605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762619025605</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,5 +191,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code Revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="code Revision" />
   </component>
 </project>
