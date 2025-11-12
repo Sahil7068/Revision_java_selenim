@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f8913d3-5a31-48b7-9c81-2c55394922b0" name="Changes" comment="code Revision">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/AlertRevise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/BrokenLinkIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/BrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/LaunchBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/LocateLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/Pagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/SwitchNewTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/TakeScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PraciseForInterviews/WebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/DropDownFecth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/ScrollAndFindTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumPractise/WindowHandlePopUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,18 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sahil7068"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sahil7068&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sahil7068/Revision_java_selenim.git",
-    "accountId": "b7c8a399-495a-497f-ab95-584fbe9443ce"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sahil7068/Revision_java_selenim.git&quot;,
+    &quot;accountId&quot;: &quot;b7c8a399-495a-497f-ab95-584fbe9443ce&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -52,10 +61,18 @@
     "Application.AlertRevise.executor": "Run",
     "Application.BrokenLinks.executor": "Run",
     "Application.BrokenLinksII.executor": "Run",
+    "Application.DragAndDrop.executor": "Run",
+    "Application.DropDownFecth.executor": "Run",
+    "Application.LaunchBrowser.executor": "Run",
+    "Application.LocateLinks.executor": "Run",
     "Application.LoginByAPI2.executor": "Run",
     "Application.LoginUsingAPI.executor": "Run",
     "Application.Pagination.executor": "Run",
+    "Application.ScrollAndFindTable.executor": "Run",
     "Application.StaticDropdown.executor": "Run",
+    "Application.SwitchNewTab.executor": "Run",
+    "Application.WebTable.executor": "Run",
+    "Application.WindowHandlePopUp.executor": "Run",
     "Application.switchWindowPractise.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,13 +89,13 @@
       <recent name="C:\Users\mdsah\IdeaProjects\untitled3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlertRevise">
-    <configuration name="AlertRevise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.AlertRevise" />
+  <component name="RunManager" selected="Application.WebTable">
+    <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraciseForInterviews.BrokenLinks" />
       <module name="untitled3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumPractise.*" />
+          <option name="PATTERN" value="PraciseForInterviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrokenLinksII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.BrokenLinksII" />
+    <configuration name="DragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraciseForInterviews.DragAndDrop" />
       <module name="untitled3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumPractise.*" />
+          <option name="PATTERN" value="PraciseForInterviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginByAPI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.LoginByAPI2" />
+    <configuration name="Pagination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraciseForInterviews.Pagination" />
       <module name="untitled3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumPractise.*" />
+          <option name="PATTERN" value="PraciseForInterviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginUsingAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.LoginUsingAPI" />
+    <configuration name="SwitchNewTab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraciseForInterviews.SwitchNewTab" />
       <module name="untitled3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumPractise.*" />
+          <option name="PATTERN" value="PraciseForInterviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="switchWindowPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.switchWindowPractise" />
+    <configuration name="WebTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraciseForInterviews.WebTable" />
       <module name="untitled3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumPractise.*" />
+          <option name="PATTERN" value="PraciseForInterviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlertRevise" />
-        <item itemvalue="Application.LoginByAPI2" />
-        <item itemvalue="Application.LoginUsingAPI" />
-        <item itemvalue="Application.switchWindowPractise" />
-        <item itemvalue="Application.BrokenLinksII" />
+        <item itemvalue="Application.WebTable" />
+        <item itemvalue="Application.Pagination" />
+        <item itemvalue="Application.DragAndDrop" />
+        <item itemvalue="Application.BrokenLinks" />
+        <item itemvalue="Application.SwitchNewTab" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762619025605</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="code Revision">
+      <option name="closed" value="true" />
+      <created>1762621777755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762621777755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
